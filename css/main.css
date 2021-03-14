@@ -23,7 +23,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    filter: blur(20%);
+    filter: blur(20px);
 }
 
 .container {

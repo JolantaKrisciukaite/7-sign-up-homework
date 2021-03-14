@@ -9,7 +9,7 @@ form > .form-row {
     margin-bottom: 40px;
 }
 
-form > .form-row:last-of-type {
+form > form-row:last-of-type {
     margin-bottom: 0;
 }
 
