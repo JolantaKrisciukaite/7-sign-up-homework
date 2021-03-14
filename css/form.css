@@ -9,7 +9,7 @@ form > .form-row {
     margin-bottom: 40px;
 }
 
-form > form-row:last-of-type {
+form > .form-row:last-of-type {
     margin-bottom: 0;
 }
 
@@ -48,7 +48,7 @@ form > .form-row > button {
 
 form > .form-row > span {
     float: left;
-    padding: 10%;
+    padding: 10px;
     margin-left: 15px;
     margin-right: 15px;
     font-size: 18px;
@@ -57,7 +57,7 @@ form > .form-row > span {
 
 form > .form-row > a {
     float: left;
-    padding: 10%;
+    padding: 10px;
     font-size: 18px;
     line-height: 20px;
     color: #1B48D9;
